@@ -12,6 +12,7 @@ p {
 	top: calc( 100vh - 30px );
 	text-shadow: 0 0 2px white;
 }
+
 p a {
 	text-decoration: none;
 	color: #aaa;
