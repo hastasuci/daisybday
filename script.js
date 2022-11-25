@@ -127,7 +127,6 @@ Letter.prototype.step = function(){
 				ctx.moveTo( point[ 0 ], point[ 1 ] );
 				ctx.lineTo( point2[ 0 ], point2[ 1 ] );
 				ctx.stroke();
-			
 			}
 			
 			if( this.tick >= this.reachTime ){
